@@ -1,51 +1,109 @@
-<div align="center">
-  <h1>Hi, I'm Sohail</h1>
-</div>
- 
-<p align='center'> 
-<a target="_blank" href="https://linkedin.com/in/naeemqaswar" alt="LinkedIn" title="LinkedIn"><img height="30" width="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://twitter.com/_NaeemQaswar" alt="Twitter" title="Twitter"><img height="30" width="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://instagram.com/naeemqaswar" alt="Instagram" title="Instagram"><img height="30" width="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png"></a>&nbsp;&nbsp;
+<h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
+<h3 align="center">🚀 Full Stack Engineer | Crafting Scalable Web Applications | Cloud-Ready Solutions</h3>
 
-<div align="center"><h3>💻 Software Engineer | 🌏 Lahore, Pakistan</h3></div>
+<p align="center">
+  <!-- Social media icons (add your links later) -->
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a target="_blank" href="http://naeemqaswar.me"><img src="assets/work.gif" align="right" width="300"></a>
+---
 
-### About me
+## 👨‍💻 About Me
+- 🔭 Full Stack Engineer experienced in **building end-to-end applications** — from polished frontends to scalable backends.  
+- 💡 Skilled in designing and developing **REST APIs, microservices, and cloud-ready solutions**.  
+- 🎨 Frontend expertise in **React.js, Redux, React Query, MUI, SCSS, and Bootstrap** for clean, interactive UIs.  
+- ⚙️ Backend skills in **Node.js, Express.js, and Python** for building secure, high-performance systems.  
+- 🗄 Proficient with **MongoDB & MySQL** and experienced in designing efficient database schemas.  
+- 🛠 Advocate of **testing & CI/CD** using Jest, React Testing Library, Cypress, Webpack, and Babel.  
+- ☁️ Cloud & deployment experience with **AWS services and microservice architecture**.  
+- 🚀 Passionate about writing clean, maintainable code and delivering products that scale.  
 
-- 🎩 Code Conjurer: Weaving Web and Mobile Magic with Pixels and Pixels!
-- 🚀 Crafting digital wonders, one line of code at a time!
-- 🌟 Breathing life into apps while grooving to my favorite tunes!
-- 😄 Infusing my projects with a hefty dose of passion and enthusiasm!
-- 🔍 Embracing the latest tech trends to stay ahead in the digital realm!
-- 🎯 Building apps that leave users in awe and clients singing my praises!
+---
 
-### Languages and Tools
+## 🛠 Tech Stack
 
-<a align="left" target="_blank" href="https://www.javascript.com/" alt="Javascript" title="Javascript"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
-<a align="left" target="_blank" href="https://reactnative.dev/" alt="React" title="React & React Native"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="https://flutter.dev/" alt="Flutter" title="Flutter"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
-<a align="left" target="_blank" href="https://redux.js.org/" alt="Redux" title="Redux"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="Typescript" title="Typescript"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="https://laravel.com/" alt="Laravel" title="Laravel"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></a>&nbsp;
-<a align="left" target="_blank" href="https://www.linux.org/" alt="Linux" title="Linux"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
+### 🖥 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/ECMAScript%206-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=flat-square)
-[![Linkedin: naeemqaswar](https://img.shields.io/badge/-naeemqaswar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naeemqaswar/)](https://www.linkedin.com/in/naeemqaswar/)
-[![Twitter: NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
-[![website](https://img.shields.io/badge/Portfolio-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/)
+---
 
-### Statistics
+### ⚛️ Frontend Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&theme=radical&show_icons=true&count_private=true&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemqaswar&theme=radical&hide_progress=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+---
 
-### Support Me
+### ⚙️ Backend & Server
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00.svg?&style=for-the-badge&logo=microgenetics&logoColor=white" />
+</p>
 
-<a href="https://www.buymeacoffee.com/naeemqaswar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+---
 
-[website]: http://naeemqaswar.me
-[twitter]: https://twitter.com/_NaeemQaswar
-[instagram]: https://instagram.com/naeemqaswar
-[linkedin]: https://linkedin.com/in/naeemqaswar
-[myWebsiteLink]: http://naeemqaswar.me
+### 🗄 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🧪 Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332.svg?&style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C.svg?&style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="languages" />
+</p>
+
+---
+
+## 🌍 Portfolio & Links
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🐦 [Twitter](https://twitter.com/your-link)  
+- 📸 [Instagram](https://instagram.com/your-link)  
+- 📧 Email: **your-email@gmail.com**
